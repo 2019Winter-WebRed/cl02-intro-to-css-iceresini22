@@ -1,0 +1,36 @@
+/*
+* Isabella Ceresini
+* Due Date
+* Project Name and Description
+*/
+
+/* The universal selector */
+
+* {
+
+}
+/* Body attributes here */
+
+body {
+    width: 80%;
+    margin: auto;
+    background-color:lavenderblush;
+    font-family: cursive
+
+}
+h1 {
+    background-color:lavender; /* color for background */
+    color:black; /* color of text */
+}
+p { /* type selector for all paragraphs */
+    color: black;
+    
+}
+#bluetext { /* use an id to change text to blue */
+    color:skyblue;
+    
+}
+.pinktext { /* use a class to change text to green in different kinds of elements */
+    color: deeppink;
+    
+}
